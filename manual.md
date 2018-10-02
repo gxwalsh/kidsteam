@@ -59,3 +59,6 @@ Once the design session is over and all the child participants have left, it's t
 
 ## Phase 5?: Clean up
 This is not an important phase when it comes to the design session, but it is very important when it comes to keeping the space clean. It is helpful to have all of the designers help clean up the space including the art supplies, sticky notes, large pieces of paper, crayons or markers. Space at this time is also extremely helpful to cleanup food or drinks snack time and make sure the space is clean for the next users of that room.
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).
