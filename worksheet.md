@@ -32,3 +32,6 @@ What supplies do you need?
 
 ## Big Ideas  
 Where will you collect the Big Ideas (whiteboard, flip board, poster paper)?  
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).
