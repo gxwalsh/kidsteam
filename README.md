@@ -7,3 +7,6 @@ This repository is a collection of resources for those that want to run their ow
 Manual - This is the majority of how to run a session.  
 Worksheet - This should aid in putting together one single design session.  
 Resources - A list of additional sources to frame KidsTeam and provide additional information on techniques.
+
+
+All content in this repository is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).
