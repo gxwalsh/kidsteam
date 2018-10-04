@@ -9,4 +9,9 @@ Worksheet - This should aid in putting together one single design session.
 Resources - A list of additional sources to frame KidsTeam and provide additional information on techniques.
 
 
+If you use it, please let me know!  
+
+- Greg
+
+
 All content in this repository is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).
