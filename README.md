@@ -1,6 +1,6 @@
 # kidsteam
 
-## Uppdates
+## Updates
 **1/12/21** 
 Version 1.0 of the KidsTeam Toolkit Uploaded. Thank you to Zoe Skinner who re-wrote the original and geared it towards librarians.
 
