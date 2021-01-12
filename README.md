@@ -2,7 +2,7 @@
 
 ## Updates
 **1/12/21** 
-Version 1.0 of the KidsTeam Toolkit Uploaded. Thank you to Zoe Skinner who re-wrote the original and geared it towards librarians.
+Version 1.0 of the KidsTeam Toolkit Uploaded. Thank you to Zoe Skinner who re-wrote the original for her Master's Thesis at the University of Baltimore.
 
 ## Welcome! 
 Thank you so much for considering implementing KidsTeam. The concept of KidsTeam came from Dr. Allison Druin over 20 years ago. Then a professor at the University of Maryland, Druin created a team consisting of children and adults to design technologies for children with children. Over the years, this group has worked with a number of organizations including Nickelodeon, the United States National Park Service, and Carnegie Hall.  
