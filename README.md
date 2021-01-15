@@ -1,6 +1,9 @@
 # kidsteam
 
 ## Updates
+**1/14/21**  
+The thesis is available at https://mdsoar.org/handle/11603/20457
+
 **1/12/21** 
 Version 1.0 of the KidsTeam Toolkit Uploaded. Thank you to Zoe Skinner who re-wrote the original for her Master's Thesis at the University of Baltimore.
 
