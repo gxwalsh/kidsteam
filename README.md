@@ -1,6 +1,10 @@
 # kidsteam
 
 ## Updates
+**1/29/21**  
+This is now archived with a DOI.  
+[![DOI](https://zenodo.org/badge/151314568.svg)](https://zenodo.org/badge/latestdoi/151314568)
+
 **1/14/21**  
 The thesis is available at https://mdsoar.org/handle/11603/20457
 
