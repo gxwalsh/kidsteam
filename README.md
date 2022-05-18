@@ -26,3 +26,5 @@ Greg
 
 
 All content in this project repository is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).
+
+<a rel="me" href="https://hci.social/@gxwalsh"> </a>
