@@ -1,7 +1,7 @@
 **2026 Contributors**
 
 1. Greg Walsh, PhD
-2.   
+2. Brittney Spinner  
 3.     
 4.       
 5.       
