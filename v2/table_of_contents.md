@@ -21,7 +21,7 @@ f.	Where are you in the design process?
 IV.	Before the Session
 a.	Setting things up
 b.	Prepared supplies
-V.	During the Session
+V.	During the Session (Brittney)
 a.	Be flexible
 i.	Things can go awry
 b.	Quiet participants
