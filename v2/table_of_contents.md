@@ -6,7 +6,7 @@ Table of Contents – Co-Design Toolkit Guide
 ## a.	Your place in the co-design process
 ### i.	Audiences
 ### ii.	Researchers
-## b.	Prepping your mindset
+## b.	Prepping your mindset - Nkiruka
 # III.	Planning the Research Study
 ## a.	Who’s who
 ### i.	Roles
@@ -21,9 +21,9 @@ Table of Contents – Co-Design Toolkit Guide
 # IV.	Before the Session
 ## a.	Setting things up
 ## b.	Prepared supplies
-# V.	During the Session
+# V.	During the Session - Nkiruka
 ## a.	Be flexible
-### i.	Things can go awry
+### i.	Things can go awry 
 ## b. 	Quiet participants
 ## c.	How to act in non-conversational/evaluative design sessions
 ## d.	Interacting encouragingly with children
