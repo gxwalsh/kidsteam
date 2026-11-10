@@ -16,7 +16,7 @@ Table of Contents – Co-Design Toolkit Guide
 ### i.	They only need to know how to be children
 ## d.	Expectations of adults
 ### i.	You can give ideas
-## e.	Understanding different design techniques
+## e.	Understanding different design techniques -Kamilah
 ## f.	Where are you in the design process?
 # IV.	Before the Session
 ## a.	Setting things up
@@ -31,11 +31,11 @@ Table of Contents – Co-Design Toolkit Guide
 ## a.	Interpreting the Data
 ### i.	Tying themes back to design ideas in the session
 1.	Every idea/theme should be traceable 
-## b.	How to document the artifacts
+## b.	How to document the artifacts -Kamilah
 ### i.	Take pictures
-# VII.	Cookbook (Scenarios)
+# VII.	Cookbook (Scenarios) -Kamilah
 ## a.	I want to do this so I’ll need to do that
-# VIII.	Resources
+# VIII.	Resources -Kamilah
 ## a.	Guided Questions for Adult Co-Designers
 ## b.	Note taking worksheet
 ## c.	Interpreting Data
