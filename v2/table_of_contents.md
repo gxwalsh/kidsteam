@@ -14,32 +14,32 @@ Table of Contents – Co-Design Toolkit Guide
 ## b.	Designing good prompts
 ## c.	Expectations of children
 ### i.	They only need to know how to be children
-d.	Expectations of adults
-i.	You can give ideas
-e.	Understanding different design techniques
-f.	Where are you in the design process?
-IV.	Before the Session
-a.	Setting things up
-b.	Prepared supplies
-V.	During the Session
-a.	Be flexible
-i.	Things can go awry
-b.	Quiet participants
-c.	How to act in non-conversational/evaluative design sessions
-d.	Interacting encouragingly with children
-VI.	After the Session
-a.	Interpreting the Data
-i.	Tying themes back to design ideas in the session
+## d.	Expectations of adults
+### i.	You can give ideas
+## e.	Understanding different design techniques
+## f.	Where are you in the design process?
+# IV.	Before the Session
+## a.	Setting things up
+## b.	Prepared supplies
+# V.	During the Session
+## a.	Be flexible
+### i.	Things can go awry
+## b. 	Quiet participants
+## c.	How to act in non-conversational/evaluative design sessions
+## d.	Interacting encouragingly with children
+# VI.	After the Session
+## a.	Interpreting the Data
+### i.	Tying themes back to design ideas in the session
 1.	Every idea/theme should be traceable 
-b.	How to document the artifacts
-i.	Take pictures
-VII.	Cookbook (Scenarios)
-a.	I want to do this so I’ll need to do that
-VIII.	Resources
-a.	Guided Questions for Adult Co-Designers
-b.	Note taking worksheet
-c.	Interpreting Data
-d.	Checklist for Session Preparedness
+## b.	How to document the artifacts
+### i.	Take pictures
+# VII.	Cookbook (Scenarios)
+## a.	I want to do this so I’ll need to do that
+# VIII.	Resources
+## a.	Guided Questions for Adult Co-Designers
+## b.	Note taking worksheet
+## c.	Interpreting Data
+## d.	Checklist for Session Preparedness
 
 
 * That it isn't too structured
