@@ -6,7 +6,7 @@ Table of Contents – Co-Design Toolkit Guide
 ## a.	Your place in the co-design process
 ### i.	Audiences
 ### ii.	Researchers
-## b.	Prepping your mindset
+## b.	Prepping your mindset - Nkiruka
 # III.	Planning the Research Study
 ## a.	Who’s who
 ### i.	Roles
@@ -16,14 +16,14 @@ Table of Contents – Co-Design Toolkit Guide
 ### i.	They only need to know how to be children
 ## d.	Expectations of adults
 ### i.	You can give ideas
-## e.	Understanding different design techniques
+## e.	Understanding different design techniques -Kamilah
 ## f.	Where are you in the design process?
 # IV.	Before the Session
 ## a.	Setting things up
 ## b.	Prepared supplies
-# V.	During the Session
+# V.	During the Session - Nkiruka
 ## a.	Be flexible
-### i.	Things can go awry
+### i.	Things can go awry 
 ## b. 	Quiet participants
 ## c.	How to act in non-conversational/evaluative design sessions
 ## d.	Interacting encouragingly with children
@@ -31,11 +31,11 @@ Table of Contents – Co-Design Toolkit Guide
 ## a.	Interpreting the Data
 ### i.	Tying themes back to design ideas in the session
 1.	Every idea/theme should be traceable 
-## b.	How to document the artifacts
+## b.	How to document the artifacts -Kamilah
 ### i.	Take pictures
-# VII.	Cookbook (Scenarios)
+# VII.	Cookbook (Scenarios) -Kamilah
 ## a.	I want to do this so I’ll need to do that
-# VIII.	Resources
+# VIII.	Resources -Kamilah
 ## a.	Guided Questions for Adult Co-Designers
 ## b.	Note taking worksheet
 ## c.	Interpreting Data
