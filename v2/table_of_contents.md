@@ -18,7 +18,7 @@ Table of Contents – Co-Design Toolkit Guide
 ### i.	You can give ideas
 ## e.	Understanding different design techniques -Kamilah
 ## f.	Where are you in the design process?
-# IV.	Before the Session (Gabriella C.) 
+# IV.	Before the Session (Gabriella C.) .
 ## a.	Setting things up
 ## b.	Prepared supplies
 # V.	During the Session - Nkiruka
