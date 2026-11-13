@@ -18,7 +18,7 @@ Table of Contents – Co-Design Toolkit Guide
 ### i.	You can give ideas
 ## e.	Understanding different design techniques -Kamilah
 ## f.	Where are you in the design process?
-# IV.	Before the Session (Gabriella C) 
+# IV.	Before the Session (Gabriella C.) 
 ## a.	Setting things up
 ## b.	Prepared supplies
 # V.	During the Session - Nkiruka
@@ -29,7 +29,7 @@ Table of Contents – Co-Design Toolkit Guide
 ## d.	Interacting encouragingly with children
 # VI.	After the Session
 ## a.	Interpreting the Data
-### i.	Tying themes back to design ideas in the session (Gabriella C)
+### i.	Tying themes back to design ideas in the session (Gabriella C.)
 1.	Every idea/theme should be traceable 
 ## b.	How to document the artifacts -Kamilah
 ### i.	Take pictures
