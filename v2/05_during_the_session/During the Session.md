@@ -68,8 +68,6 @@ Borgers, N., de Leeuw, E., & Hox, J. (2000). Children as respondents in survey r
 
 de Leeuw, E. D. (2011). *Improving data quality when surveying children and adolescents: Cognitive and social development and its role in questionnaire construction and pretesting* [Report prepared for the Annual Meeting of the Academy of Finland]. <https://www.aka.fi/globalassets/tietysti1.fi/awanhat/documents/tiedostot/lapset/presentations-of-the-annual-seminar-10-12-may-2011/surveying-children-and-adolescents_de-leeuw.pdf>
 
-Druin, A. (2002). The role of children in the design of new technology. *Behaviour & Information Technology*, *21*(1), 1–25. <https://doi.org/10.1080/01449290110108659>
-
 Kendrick, A. (2019, April 28). *Usability testing with minors: 16 tips*. Nielsen Norman Group. <https://www.nngroup.com/articles/usability-testing-minors/>
 
 Lampman, C., & Lawlor, K. (n.d.). *Ten tenets for usability testing with minors*. Bentley University User Experience Center. Retrieved November 22, 2026, from <https://www.bentley.edu/centers/user-experience-center/usabilitytestingwithminors>
