@@ -1,4 +1,4 @@
-# I.	Understanding Different Design Techniques
+# Understanding Different Design Techniques
 ## Co-Design with Kids Website
 A great resource for understanding co-designing techniques is to use [_this website_](https://codesignwithkids.org/techniques/) which has them all catalogued.
 
